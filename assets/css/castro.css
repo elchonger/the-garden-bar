@@ -1,0 +1,129 @@
+/***********************Menu******************************/
+nav.navbar.navbar-default.ct-centeredMenu .navbar-header { padding: 15px 55px 0 100px; }
+.ct-scrollDown a { color: #000; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-rightSide .ct-rightSideContent .ct-menu > header { text-align: left; padding-top: 10px; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside .ct-bigHeader { padding-top: 10px; }
+.ct-smallHeader {   font-size: 30px; font-family: 'Sorts Mill Goudy', serif; }
+.ct-bigHeader { font-size: 65px; }
+#ct-gallery.ct-bottomBorder.ct-borderAnother:after { border-color: #1b1b1c; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-rightSide .ct-rightSideContent .ct-menu > header { font-size: 46px; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside .ct-bigHeader { font-size: 46px; }
+#ct-gallery.ct-bottomBorder.ct-borderAnother:after { border-color: #1b1b1c; }
+@media only screen and (max-width: 480px) {
+    .ct-bigHeader {
+        font-size: 42px!important;
+        line-height: 42px;
+    }
+}
+
+
+/******************************************************************Motive color style************************************************************************/
+.ct-u-background--motive { background-color: #725a34 !important; }
+.ct-u-color--motive { color: #725a34 !important; }
+.slick-dots li button:before { color: #725a34; }
+.slick-dots li.slick-active button:before { color: #725a34; }
+nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav > li:before { background-color: #fff; }
+nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu li:hover, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu li:focus, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu li:active {
+    background-color: #725a34;
+}
+nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu .dropdown:hover > .dropdown-menu li:hover, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu .dropdown:hover > .dropdown-menu li:focus, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu .dropdown:hover > .dropdown-menu li:active {
+    background-color: #725a34;
+}
+.ct-footer .ct-preFooter .ct-contactBox ul li i { color: #725a34; }
+.ct-footer .ct-preFooter .ct-followBox ul li a:hover, .ct-footer .ct-preFooter .ct-followBox ul li a:focus, .ct-footer .ct-preFooter .ct-followBox ul li a:active { color: #725a34; }
+.ct-footer .ct-preFooter .ct-followBox ul li a:hover + i, .ct-footer .ct-preFooter .ct-followBox ul li a:focus + i, .ct-footer .ct-preFooter .ct-followBox ul li a:active + i {  color: #725a34; }
+.ct-footer .ct-preFooter .ct-headerBottom {  color: #725a34; }
+.ct-footer .ct-postFooter ul.ct-map-links li a:hover span, .ct-footer .ct-postFooter ul.ct-map-links li a:focus span { color: #725a34; }
+.ct-js-btnScrollUp:before {  border-color: transparent transparent #725a34 transparent; }
+.form-control.input-typeFirst:focus, .form-control.input-typeFirst:active { border-color: #725a34; }
+.form-control.input-typeSecond:focus, .form-control.input-typeSecond:active { border-color: #725a34; }
+.form-control.input-typeThird:focus, .form-control.input-typeThird:active { border-color: #725a34; }
+.form-control.input-typeFour:focus, .form-control.input-typeFour:active { border-color: #725a34; }
+.btn.btn-primary { background-color: #725a34 !important; }
+.btn.btn-primary:active, .btn.btn-primary:hover, .btn.btn-primary:focus { color: #725a34 !important; }
+.btn.btn-default:active.btn-border:before, .btn.btn-default:hover.btn-border:before, .btn.btn-default:focus.btn-border:before { border-color: transparent; }
+.btn.btn-link:active, .btn.btn-link:hover, .btn.btn-link:focus { background-color: #fff; }
+.btn.btn-border.btn-border--white:before { border-color: transparent; }
+.btn.btn-border:before { border-color: transparent; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a { color: #725a34; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a:before { color: #725a34; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a:hover, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:active, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:focus {  color: #725a34; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a:hover:before, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:active:before, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:focus:before { color: #725a34; }
+mark { color: #725a34; }
+.ct-events .ct-tabsTop ul > li .ct-content span { color: #725a34; }
+.ct-events .ct-tabsBottom .tab-content .tab-pane .widget .widget-title { color: #725a34; }
+.ct-menuSection .ct-topSection .ct-menuList li a:hover span, .ct-menuSection .ct-topSection .ct-menuList li a:focus span, .ct-menuSection .ct-topSection .ct-menuList li a:active span, .ct-menuSection .ct-topSection .ct-menuList li a.active span { color: #725a34; }
+.ct-menuSection .ct-topSection .ct-menuList li.active span { color: #725a34; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li:hover a, .ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li:focus a, .ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li:active a { color: #725a34; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li.active a { color: #725a34; }
+.pagination > li.active a { background-color: #725a34; }
+.pagination > li.active a:hover, .pagination > li.active a:focus, .pagination > li.active a:active { background-color: #725a34; }
+.pagination li a:hover, .pagination li a:focus, .pagination li a:active { background-color: #725a34; }
+ul.ct-socials li a:hover, ul.ct-socials li a:focus, ul.ct-socials li a:active { background-color: #725a34; }
+.ct-menuMobile { background-color: #725a34; }
+.ct-menuMobile .ct-menuMobile-navbar > .dropdown.open .dropdown-menu li a:hover, .ct-menuMobile .ct-menuMobile-navbar > .dropdown.open .dropdown-menu li a:focus, .ct-menuMobile .ct-menuMobile-navbar > .dropdown.open .dropdown-menu li a:active { background-color: #725a34; }
+.ct-button { background-color: #725a34; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:hover, .ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:focus { color: #725a34; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:hover span, .ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:focus span { color: #725a34; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a.active { color: #725a34; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a.active:hover, .ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a.active:focus { color: #725a34; }
+.lg-actions .lg-next:hover, .lg-actions .lg-prev:hover { color: #725a34; }
+.lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover { border-color: #725a34; }
+.lg-progress-bar .lg-progress { background-color: #725a34; }
+.datepicker.dropdown-menu { background-color: #725a34; }
+.ct-tweet .tweet_list li p .tweet_user { color: #725a34; }
+.ct-infoBox .ct-infoBox-tel { color: #725a34; }
+.ct-iconHeader i { color: #725a34; }
+.ct-slickBox.ct-js-slick .slick-dots li.slick-active button:before { color: #725a34; }
+.ct-slickBox.ct-js-slick .slick-dots li:active button:before, .ct-slickBox.ct-js-slick .slick-dots li:hover button:before, .ct-slickBox.ct-js-slick .slick-dots li:focus button:before {  color: #725a34; }
+.ct-bookTable .ct-bookTable-form { background-color: #725a34; }
+article.ct-article .ct-article-content ul.ct-article-tags li a:hover, article.ct-article .ct-article-content ul.ct-article-tags li a:focus, article.ct-article .ct-article-content ul.ct-article-tags li a:active { color: #725a34; }
+article.ct-article .ct-article-content .ct-article-title:hover, article.ct-article .ct-article-content .ct-article-title:focus, article.ct-article .ct-article-content .ct-article-title:active { color: #725a34; }
+article.ct-article .ct-article-content .ct-article-readMore:hover, article.ct-article .ct-article-content .ct-article-readMore:focus, article.ct-article .ct-article-content .ct-article-readMore:active { color: #725a34; }
+article.ct-article.ct-article--single .ct-article-content--single ul .ct-article-tags li:hover a, article.ct-article.ct-article--single .ct-article-content--single ul .ct-article-tags li:focus a, article.ct-article.ct-article--single .ct-article-content--single ul .ct-article-tags li:active a {  color: #725a34; }
+.ct-buttonComponents li a:hover, .ct-buttonComponents li a:focus, .ct-buttonComponents li a:active { color: #725a34; }
+.ct-navigation .ct-previous a:hover, .ct-navigation .ct-previous a:focus, .ct-navigation .ct-previous a:active { color: #725a34; }
+.ct-navigation .ct-next a:hover, .ct-navigation .ct-next a:focus, .ct-navigation .ct-next a:active { color: #725a34; }
+.ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a { color: #725a34; }
+.ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a:hover, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a:focus, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a:active { color: #725a34; }
+ol.breadcrumb li.active { color: #725a34; }
+ol.breadcrumb li:hover, ol.breadcrumb li:focus, ol.breadcrumb li:active { color: #725a34; }
+.ct-contactList li a:hover, .ct-contactList li a:focus, .ct-contactList li a:active { color: #725a34; }
+.ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body .media-heading a:hover, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body .media-heading a:focus, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body .media-heading a:active { color: #725a34; }
+.ct-modal span:hover:after, .ct-modal span:focus:after {  color: #725a34; }
+.ct-gallerySection .ct-topContent .ct-imageComponent { height: 600px; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-rightSide .ct-rightSideContent .ct-content:after { display: none; }
+/*.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-rightSide .ct-rightSideContent .ct-content:before {*/
+    /*content: "";*/
+    /*position: absolute;*/
+    /*top: 80%;*/
+    /*left: 0;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background-image: url("../images/content/castro/special-text.png");*/
+    /*background-repeat: no-repeat;*/
+/*}*/
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant:after { top: 0;}
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-rightSide .ct-rightSideContent .ct-content { margin-top: 0; }
+@media (max-width: 1100px) {
+    .ct-menuSection .ct-bottomSection .ct-tabsContent .ct-rightSide .ct-rightSideContent .ct-content:before { background-size: 70%; }
+}
+.ct-infoBox header { text-transform: capitalize; }
+@media (min-width: 450px) and (max-width: 551px)
+{
+    .ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters {
+        margin-bottom: -50px;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+nav.navbar.navbar-default.ct-centeredMenu .navbar-header .navbar-brand img {
+    max-width: 70%;
+} }
+
+
+
+
+
+

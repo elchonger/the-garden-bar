@@ -1,0 +1,89 @@
+#ct-gallery.ct-bottomBorder.ct-borderAnother:after { border-color: #1b1b1c; }
+
+/****************Motive color style*******************/
+
+.ct-u-background--motive { background-color: #c6cd41 !important; }
+.ct-u-color--motive { color: #c6cd41 !important; }
+.slick-dots li button:before { color: #c6cd41; }
+.slick-dots li.slick-active button:before { color: #c6cd41; }
+nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav > li:before { background-color: #c6cd41; }
+nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu li:hover, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu li:focus, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu li:active {
+    background-color: #c6cd41;
+}
+nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu .dropdown:hover > .dropdown-menu li:hover, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu .dropdown:hover > .dropdown-menu li:focus, nav.navbar.navbar-default.ct-centeredMenu ul.nav.navbar-nav li.dropdown:hover > .dropdown-menu .dropdown:hover > .dropdown-menu li:active {
+    background-color: #c6cd41;
+}
+.ct-footer .ct-preFooter .ct-contactBox ul li i { color: #c6cd41; }
+.ct-footer .ct-preFooter .ct-followBox ul li a:hover, .ct-footer .ct-preFooter .ct-followBox ul li a:focus, .ct-footer .ct-preFooter .ct-followBox ul li a:active { color: #c6cd41; }
+.ct-footer .ct-preFooter .ct-followBox ul li a:hover + i, .ct-footer .ct-preFooter .ct-followBox ul li a:focus + i, .ct-footer .ct-preFooter .ct-followBox ul li a:active + i {  color: #c6cd41; }
+.ct-footer .ct-preFooter .ct-headerBottom {  color: #c6cd41; }
+.ct-footer .ct-postFooter ul.ct-map-links li a:hover span, .ct-footer .ct-postFooter ul.ct-map-links li a:focus span { color: #c6cd41; }
+.ct-js-btnScrollUp:before {  border-color: transparent transparent #c6cd41 transparent; }
+.form-control.input-typeFirst:focus, .form-control.input-typeFirst:active { border-color: #c6cd41; }
+.form-control.input-typeSecond:focus, .form-control.input-typeSecond:active { border-color: #c6cd41; }
+.form-control.input-typeThird:focus, .form-control.input-typeThird:active { border-color: #c6cd41; }
+.form-control.input-typeFour:focus, .form-control.input-typeFour:active { border-color: #c6cd41; }
+.btn.btn-primary { background-color: #c6cd41 !important; }
+.btn.btn-primary:active, .btn.btn-primary:hover, .btn.btn-primary:focus { color: #c6cd41 !important; }
+.btn.btn-primary:active.btn-border:before, .btn.btn-primary:hover.btn-border:before, .btn.btn-primary:focus.btn-border:before { border-color: #c6cd41 !important; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a { color: #c6cd41; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a:before { color: #c6cd41; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a:hover, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:active, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:focus {  color: #c6cd41; }
+.ct-accordionList .panel-group .panel .panel-heading .panel-title a:hover:before, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:active:before, .ct-accordionList .panel-group .panel .panel-heading .panel-title a:focus:before { color: #c6cd41; }
+mark { color: #c6cd41; }
+.ct-events .ct-tabsTop ul > li .ct-content span { color: #c6cd41; }
+.ct-events .ct-tabsBottom .tab-content .tab-pane .widget .widget-title { color: #c6cd41; }
+.ct-menuSection .ct-topSection .ct-menuList li a:hover span, .ct-menuSection .ct-topSection .ct-menuList li a:focus span, .ct-menuSection .ct-topSection .ct-menuList li a:active span, .ct-menuSection .ct-topSection .ct-menuList li a.active span { color: #c6cd41; }
+.ct-menuSection .ct-topSection .ct-menuList li.active span { color: #c6cd41; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li:hover a, .ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li:focus a, .ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li:active a { color: #c6cd41; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant li.active a { color: #c6cd41; }
+.pagination > li.active a { background-color: #c6cd41; }
+.pagination > li.active a:hover, .pagination > li.active a:active, .pagination > li.active a:focus { background-color: #c6cd41; }
+.pagination li a:hover, .pagination li a:active { background-color: #c6cd41; }
+.pagination li a:focus { background-color: #1b1b1c; color: #fff; }
+ul.ct-socials li a:hover, ul.ct-socials li a:focus, ul.ct-socials li a:active { background-color: #c6cd41; }
+.ct-menuMobile { background-color: #c6cd41; }
+.ct-menuMobile .ct-menuMobile-navbar > .dropdown.open .dropdown-menu li a:hover, .ct-menuMobile .ct-menuMobile-navbar > .dropdown.open .dropdown-menu li a:focus, .ct-menuMobile .ct-menuMobile-navbar > .dropdown.open .dropdown-menu li a:active { background-color: #c6cd41; }
+.ct-button { background-color: #c6cd41; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:hover, .ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:focus { color: #c6cd41; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:hover span, .ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a:focus span { color: #c6cd41; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a.active { color: #c6cd41; }
+.ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a.active:hover, .ct-gallerySection .ct-topContent .ct-imageComponent .ct-gallery-filters li a.active:focus { color: #c6cd41; }
+.lg-actions .lg-next:hover, .lg-actions .lg-prev:hover { color: #c6cd41; }
+.lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover { border-color: #c6cd41; }
+.lg-progress-bar .lg-progress { background-color: #c6cd41; }
+.datepicker.dropdown-menu { background-color: #c6cd41; }
+.ct-tweet .tweet_list li p .tweet_user { color: #c6cd41; }
+.ct-infoBox .ct-infoBox-tel { color: #c6cd41; }
+.ct-iconHeader i { color: #c6cd41; }
+.ct-slickBox.ct-js-slick .slick-dots li.slick-active button:before { color: #c6cd41; }
+.ct-slickBox.ct-js-slick .slick-dots li:active button:before, .ct-slickBox.ct-js-slick .slick-dots li:hover button:before, .ct-slickBox.ct-js-slick .slick-dots li:focus button:before {  color: #c6cd41; }
+.ct-bookTable .ct-bookTable-form { background-color: #c6cd41; }
+article.ct-article .ct-article-content ul.ct-article-tags li a:hover, article.ct-article .ct-article-content ul.ct-article-tags li a:focus, article.ct-article .ct-article-content ul.ct-article-tags li a:active { color: #c6cd41; }
+article.ct-article .ct-article-content .ct-article-title:hover, article.ct-article .ct-article-content .ct-article-title:focus, article.ct-article .ct-article-content .ct-article-title:active { color: #c6cd41; }
+article.ct-article .ct-article-content .ct-article-readMore:hover, article.ct-article .ct-article-content .ct-article-readMore:focus, article.ct-article .ct-article-content .ct-article-readMore:active { color: #c6cd41; }
+article.ct-article.ct-article--single .ct-article-content--single ul .ct-article-tags li:hover a, article.ct-article.ct-article--single .ct-article-content--single ul .ct-article-tags li:focus a, article.ct-article.ct-article--single .ct-article-content--single ul .ct-article-tags li:active a {  color: #c6cd41; }
+.ct-buttonComponents li a:hover, .ct-buttonComponents li a:focus, .ct-buttonComponents li a:active { color: #c6cd41; }
+.ct-navigation .ct-previous a:hover, .ct-navigation .ct-previous a:focus, .ct-navigation .ct-previous a:active { color: #c6cd41; }
+.ct-navigation .ct-next a:hover, .ct-navigation .ct-next a:focus, .ct-navigation .ct-next a:active { color: #c6cd41; }
+.ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a { color: #c6cd41; }
+.ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a:hover, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a:focus, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body span.ct-replyButton a:active { color: #c6cd41; }
+ol.breadcrumb li.active { color: #c6cd41; }
+ol.breadcrumb li:hover, ol.breadcrumb li:focus, ol.breadcrumb li:active { color: #c6cd41; }
+.ct-contactList li a:hover, .ct-contactList li a:focus, .ct-contactList li a:active { color: #c6cd41; }
+.ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body .media-heading a:hover, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body .media-heading a:focus, .ct-comments li .mediaBox .mediaBox-body .mediaBox-inner-body .media-heading a:active { color: #c6cd41; }
+.ct-modal span:hover:after, .ct-modal span:focus:after {  color: #c6cd41; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-rightSide .ct-rightSideContent .ct-content { margin-top: 0; }
+.ct-menuSection .ct-bottomSection .ct-tabsContent .ct-leftSide .ct-leftSide-inside > ul.ct-menuRestaurant:after { top: 0; }
+
+
+
+
+
+
+
+
+
+
+
+
