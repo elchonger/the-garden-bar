@@ -68,7 +68,7 @@
           </div>
         </div>
         <div class="ct-scrollDown">
-         <a href="#intro" class="ct-js-btnScroll">Cheers<span><i class="fa fa-angle-double-down fa-lg"></i></span></a>
+         <a href="#intro" class="ct-js-btnScroll">Cheers!<span><i class="fa fa-angle-double-down fa-lg"></i></span></a>
         </div>
       </section>
       <!--Information Sections-->
