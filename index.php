@@ -104,7 +104,7 @@
     <li>🎯 Darts board &amp; team</li>
     <li>🐾 Dog-friendly – four-legged friends are always welcome</li>
   </ul>
-            <p class="ct-u-paddingBottom30">Dogs are most welcome.</p>
+        
               <!--<a href="#" data-padding-left="50" data-padding-right="50" class="btn btn-primary btn-border btn-sm ct-js-btnSize ct-anotherBook">book a table</a>-->
           </div>
         </div>

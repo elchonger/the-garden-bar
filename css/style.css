@@ -992,7 +992,9 @@ button, .btn {
 
 ul {
   margin-bottom: 0; }
-
+ul.hp-list{
+  list-style-type: none;
+}
 [data-background], [data-parallax] {
   background-position: center;
   background-size: cover;
@@ -7266,10 +7268,4 @@ html.browser-msie .ct-innerPadding.ct-inputBox {
     width: 288px;
     height: 310px;
   }
-}
-
-/* My styles here */
-
-.hp-list{
-  list-style-type: none;
 }
