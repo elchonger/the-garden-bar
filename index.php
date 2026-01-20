@@ -81,7 +81,7 @@
           <div class="ct-colLeft-inside">
 
           
-            <div class="ct-header"><h2>Welcome to The Garden Bar</h2></div>
+            <h2 class="ct-anotherHeader ">Welcome to The Garden Bar</h2>
            <p class="ct-u-paddingBottom25">
     Your friendly, independent local bar just moments from the sea. Perfectly
     located beside Westgate-on-Sea train station and only a stone’s throw from
