@@ -7267,3 +7267,9 @@ html.browser-msie .ct-innerPadding.ct-inputBox {
     height: 310px;
   }
 }
+
+/* My styles here */
+
+.hp-list{
+  list-style-type: none;
+}

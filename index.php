@@ -94,8 +94,8 @@
     atmosphere in our spacious garden — the perfect place to sit back and enjoy.
   </p>
 
-  <h3>What’s on offer:</h3>
-  <ul>
+  <h3 class="ct-u-paddingBottom25">What’s on offer:</h3>
+  <ul class="hp-list">
     <li>🎶 Live music</li>
     <li>📺 Sky Sports</li>
     <li>🎉 Events &amp; special occasions</li>
