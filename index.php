@@ -82,6 +82,15 @@
             <div class="ct-header">Welcome to The Garden Bar</div>
             <p class="ct-u-paddingBottom25">We are a small, friendly, independent local bar. Situated next to the Westgate-on-Sea train station, only a stone’s throw away from the beach. From cocktails to ales, we host a large selection of drinks. Sit back and enjoy in our spacious garden.
                 </p>
+                <ul>
+                  <li>Live music</li>
+                  <li>Sky Sports </li>
+                  <li>Events </li>
+                  <li>Occasions</li>
+                  <li>Venue Hire </li>
+                  <li>Pool tables </li>
+                  <li>Darts board/team</li>
+                </ul>
             <p class="ct-u-paddingBottom30">Dogs are most welcome.</p>
               <!--<a href="#" data-padding-left="50" data-padding-right="50" class="btn btn-primary btn-border btn-sm ct-js-btnSize ct-anotherBook">book a table</a>-->
           </div>
