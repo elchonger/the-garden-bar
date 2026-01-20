@@ -992,9 +992,7 @@ button, .btn {
 
 ul {
   margin-bottom: 0; }
-ul.hp-list li{
-  list-style: none;
-}
+
 [data-background], [data-parallax] {
   background-position: center;
   background-size: cover;
