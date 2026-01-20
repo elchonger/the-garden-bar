@@ -102,9 +102,10 @@
               <div class="media-body">
                 <div class="media-heading">Hours</div>
                 <div class="media-content">
+                  <p>Tuesday &nbsp;| 4PM to 11PM</p>
                   <p>Thursday &nbsp;| 4PM to 11PM</p>
                     <p>Friday &nbsp;| 4PM to 11PM</p>
-                    <p>Saturday &nbsp;| 4PM to 11PM</p>
+                    <p>Saturday &nbsp;| 2PM to 11PM</p>
                   <p>Sunday&nbsp;| 2PM to 6PM</p>
                    <!--<p>Bank holiday &nbsp;| 2PM to 6PM</p>-->
                 </div>
