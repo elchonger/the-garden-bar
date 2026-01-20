@@ -992,7 +992,7 @@ button, .btn {
 
 ul {
   margin-bottom: 0; }
-ul.hp-list{
+.hp-list{
   list-style: none;
 }
 [data-background], [data-parallax] {
