@@ -79,18 +79,31 @@
       <section id="open" class="ct-infoSection ct-u-displayTableVertical">
         <div class="ct-colLeft ct-u-displayTableCell">
           <div class="ct-colLeft-inside">
+
+          
             <div class="ct-header">Welcome to The Garden Bar</div>
-            <p class="ct-u-paddingBottom25">We are a small, friendly, independent local bar. Situated next to the Westgate-on-Sea train station, only a stone’s throw away from the beach. From cocktails to ales, we host a large selection of drinks. Sit back and enjoy in our spacious garden.
-                </p>
-                <ul>
-                  <li>Live music</li>
-                  <li>Sky Sports </li>
-                  <li>Events </li>
-                  <li>Occasions</li>
-                  <li>Venue Hire </li>
-                  <li>Pool tables </li>
-                  <li>Darts board/team</li>
-                </ul>
+           <p class="ct-u-paddingBottom25">
+    Your friendly, independent local bar just moments from the sea. Perfectly
+    located beside Westgate-on-Sea train station and only a stone’s throw from
+    the beach, The Garden Bar is the ideal spot to unwind.
+  </p>
+
+  <p class="ct-u-paddingBottom25">
+    From expertly mixed cocktails to classic ales and everything in between, our
+    well-stocked bar has something for everyone. Relax indoors or soak up the
+    atmosphere in our spacious garden — the perfect place to sit back and enjoy.
+  </p>
+
+  <h3>What’s on offer:</h3>
+  <ul>
+    <li>🎶 Live music</li>
+    <li>📺 Sky Sports</li>
+    <li>🎉 Events &amp; special occasions</li>
+    <li>🏠 Venue hire available</li>
+    <li>🎱 Pool tables</li>
+    <li>🎯 Darts board &amp; team</li>
+    <li>🐾 Dog-friendly – four-legged friends are always welcome</li>
+  </ul>
             <p class="ct-u-paddingBottom30">Dogs are most welcome.</p>
               <!--<a href="#" data-padding-left="50" data-padding-right="50" class="btn btn-primary btn-border btn-sm ct-js-btnSize ct-anotherBook">book a table</a>-->
           </div>
