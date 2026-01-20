@@ -95,15 +95,15 @@
   </p>
 
   <h3 class="ct-u-paddingBottom25">What’s on offer:</h3>
-  <ul class="hp-list">
-    <li>🎶 Live music</li>
-    <li>📺 Sky Sports</li>
-    <li>🎉 Events &amp; special occasions</li>
-    <li>🏠 Venue hire available</li>
-    <li>🎱 Pool tables</li>
-    <li>🎯 Darts board &amp; team</li>
-    <li>🐾 Dog-friendly – four-legged friends are always welcome</li>
-  </ul>
+  
+    <p>🎶 Live music</p>
+    <p>📺 Sky Sports</p>
+    <p>🎉 Events &amp; special occasions</p>
+    <p>🏠 Venue hire available</p>
+    <p>🎱 Pool tables</p>
+    <p>🎯 Darts board &amp; team</p>
+    <p>🐾 Dog-friendly – four-legged friends are always welcome</p>
+ 
         
               <!--<a href="#" data-padding-left="50" data-padding-right="50" class="btn btn-primary btn-border btn-sm ct-js-btnSize ct-anotherBook">book a table</a>-->
           </div>
