@@ -202,55 +202,7 @@
       </section>
   
       
-      <!--Contact Form-->
-         <section id="contact" class="ct-contactSection onepager">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 text-center"><span class="ct-iconHeader ct-iconHeader--small ct-u-paddingBottom30"><i class="fa fa-close"></i><i class="fa fa-close"></i><i class="fa fa-close"></i></span><span class="ct-smallHeader">Any questions?</span>
-              <header class="ct-bigHeader">Drop us a line!</header>
-              <form action="/assets/form/send.php" method="post" data-email-subject="Contact Form" data-show-errors="true" class="contactForm validateIt ct-u-paddingTop50">
-                <div class="row">
-                  <div class="col-md-4 col-sm-4">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <input type="text" name="field[]" placeholder="Name" required="" class="form-control input-sm input-typeFirst">
-                    </div>
-                  </div>
-                  <div class="col-md-4 col-sm-4">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <input type="email" name="field[]" placeholder="Email address" required="" class="form-control input-sm input-typeFirst">
-                    </div>
-                  </div>
-                  <div class="col-md-4 col-sm-4">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <input type="text" name="field[]" placeholder="Phone Number" required="" class="form-control input-sm input-typeFirst">
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-12 col-sm-12">
-                    <div class="form-group ct-u-paddingBottom15 ct-showBg ct-js-input">
-                      <textarea rows="10" name="field[]" placeholder="Message" class="form-control input-typeFirst"></textarea>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-12 col-sm-12 text-center ct-u-paddingTop20">
-                    <button type="submit" class="btn btn-primary btn-sm btn-border btn-stretched">submit the form</button>
-                  </div>
-                </div>
-              </form>
-              <div style="display:none" class="successMessage alert alert-success ct-u-marginTop15">
-                <button type="button" data-dismiss="alert" aria-hidden="true" class="close">&times;</button>
-                <p>Thank You!</p>
-              </div>
-              <div style="display:none" class="errorMessage alert alert-danger ct-u-marginTop15">
-                <button type="button" data-dismiss="alert" aria-hidden="true" class="close">&times;</button>
-                <p>Oops! An error occured. Please try again.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
       <!--Map-->
       <section id="map" class="ct-mapSection">
           <iframe
@@ -263,7 +215,7 @@
 </iframe>
       </section>
       <footer class="ct-footer">
-        <section class="ct-preFooter">
+        <section id="contact" class="ct-preFooter">
           <div class="container">
             <div class="row ct-row">
               <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-left"><a href="index.html"><img src="../assets/images/garden-bar-logo.jpg" alt="Garden Bar Logo"></a></div>
@@ -272,7 +224,7 @@
                 <ul class="list-unstyled ct-contactList">
                   <li>Address: <br/>40 Station Road, Westgate-on-Sea, Kent, CT8 8QY<i data-icon-size="22" data-left="0" class="fa fa-map-marker ct-js-iconSize ct-js-position"></i></li>
                   <!--<li>Phone:<br/>Tel:<a href="tel:070088087">&nbsp;0049 -  123 456 789 - 0</a><i data-icon-size="20" data-left="-2" class="fa fa-phone ct-js-iconSize ct-js-position"></i></li>-->
-                  <li>Web:<br/><a href="https://gardenbarwestgate.co.uk/">gardenbarwestgate.co.uk<br/></a></li><!--<a href="mailto:hello@booze.com">hello@booze.com</a><i data-icon-size="16" data-left="-2" class="fa fa-envelope ct-js-iconSize ct-js-position"></i></li>-->
+                  <li>Web:<br/><a href="https://gardenbarwestgate.co.uk/">gardenbarwestgate.co.uk<br/></a></li><a href="mailto:thegardenbarwestgate@gmail.com">thegardenbarwestgate@gmail.com</a><i data-icon-size="16" data-left="-2" class="fa fa-envelope ct-js-iconSize ct-js-position"></i></li>
                 </ul>
               </div>
               <!--<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ct-twitterBox">
