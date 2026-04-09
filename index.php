@@ -224,7 +224,8 @@
                 <ul class="list-unstyled ct-contactList">
                   <li>Address: <br/>40 Station Road, Westgate-on-Sea, Kent, CT8 8QY<i data-icon-size="22" data-left="0" class="fa fa-map-marker ct-js-iconSize ct-js-position"></i></li>
                   <!--<li>Phone:<br/>Tel:<a href="tel:070088087">&nbsp;0049 -  123 456 789 - 0</a><i data-icon-size="20" data-left="-2" class="fa fa-phone ct-js-iconSize ct-js-position"></i></li>-->
-                  <li>Web:<br/><a href="https://gardenbarwestgate.co.uk/">gardenbarwestgate.co.uk<br/></a></li><a href="mailto:thegardenbarwestgate@gmail.com">thegardenbarwestgate@gmail.com</a><i data-icon-size="16" data-left="-2" class="fa fa-envelope ct-js-iconSize ct-js-position"></i></li>
+                  <li>Email<br /><a href="mailto:thegardenbarwestgate@gmail.com">thegardenbarwestgate@gmail.com</a><br/></a></li>
+                <li>Web:<br/><a href="https://gardenbarwestgate.co.uk/">gardenbarwestgate.co.uk<br/></a></li>
                 </ul>
               </div>
               <!--<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ct-twitterBox">
